@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\LMSDataAccessLayer\bin\Debug\LMSDataAccessLayer.dll
+C:\Users\Dell\source\repos\LMSDataAccessLayer\bin\Debug\LMSDataAccessLayer.pdb
+C:\Users\Dell\source\repos\LMSDataAccessLayer\obj\Debug\LMSDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LMSDataAccessLayer\obj\Debug\LMSDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LMSDataAccessLayer\obj\Debug\LMSDataAccessLayer.dll
+C:\Users\Dell\source\repos\LMSDataAccessLayer\obj\Debug\LMSDataAccessLayer.pdb

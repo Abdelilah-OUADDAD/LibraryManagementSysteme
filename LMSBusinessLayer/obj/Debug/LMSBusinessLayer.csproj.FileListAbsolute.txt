@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\LMSBusinessLayer\bin\Debug\LMSBusinessLayer.dll
+C:\Users\Dell\source\repos\LMSBusinessLayer\bin\Debug\LMSBusinessLayer.pdb
+C:\Users\Dell\source\repos\LMSBusinessLayer\bin\Debug\LMSDataAccessLayer.dll
+C:\Users\Dell\source\repos\LMSBusinessLayer\bin\Debug\LMSDataAccessLayer.pdb
+C:\Users\Dell\source\repos\LMSBusinessLayer\obj\Debug\LMSBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LMSBusinessLayer\obj\Debug\LMSBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LMSBusinessLayer\obj\Debug\LMSBusinessLayer.csproj.CopyComplete
+C:\Users\Dell\source\repos\LMSBusinessLayer\obj\Debug\LMSBusinessLayer.dll
+C:\Users\Dell\source\repos\LMSBusinessLayer\obj\Debug\LMSBusinessLayer.pdb
